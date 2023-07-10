@@ -18,6 +18,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vue.js&logoColor=%234FC08D)
 
 ### University
 
