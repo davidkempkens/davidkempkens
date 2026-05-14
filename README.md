@@ -2,9 +2,7 @@
 
 👋 Hi, I’m @davidkempkens
 
-👨‍🎓 I’m currently studying Computer Science and Physics at Heinrich-Heine-University in Düsseldorf.
-
-💻 I'm a working student (Fullstack Developer)
+👨‍🎓 I have Degree in Computer Science and Physics at Heinrich-Heine-University in Düsseldorf.
 
 ## My Tech Stack
 
